@@ -7,7 +7,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://prnt.sc/13e6bjr
+* https://github.com/Obelianko/javaqa-1-2-1/issues/1
+
+Причина: Использован некорректный тип переменной
 
 ## Описание процесса тестирования
 
@@ -16,12 +18,19 @@
 В качестве тестовых данных использовались данные кода из https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java
 и числовые данные из задания  https://github.com/netology-code/javaqa-homeworks/tree/master/programming:
 * public class Main {
+
   public static void main(String[] args) {
+
     int price = 2_000_000_000;
+
     int count = 500_000_000;
+
     int total = price + count;
+
     System.out.println(total);
+
   }
+
 }
 
 Expecting result = 2500000000
