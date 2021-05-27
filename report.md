@@ -15,7 +15,7 @@
 
 В процессе тестирования артефакты не использовались
 
-В качестве тестовых данных использовались данные кода из [Задания](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java
+В качестве тестовых данных использовались данные кода из [Задания](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
 и числовые данные из [Задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
 * public class Main {
 
