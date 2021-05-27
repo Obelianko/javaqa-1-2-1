@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Obelianko/javaqa-1-2-1/issues/1
+* [Money transfer calculation false](https://github.com/Obelianko/javaqa-1-2-1/issues/1)
 
 Причина: Использован некорректный тип переменной
 
@@ -15,8 +15,8 @@
 
 В процессе тестирования артефакты не использовались
 
-В качестве тестовых данных использовались данные кода из https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java
-и числовые данные из задания  https://github.com/netology-code/javaqa-homeworks/tree/master/programming:
+В качестве тестовых данных использовались данные кода из [Задания](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java
+и числовые данные из [Задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
 * public class Main {
 
   public static void main(String[] args) {
